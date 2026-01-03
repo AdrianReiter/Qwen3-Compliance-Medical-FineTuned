@@ -20,3 +20,4 @@ adapters/
 .python-version
 pyproject.toml
 uv.lock
+fix_data.py
