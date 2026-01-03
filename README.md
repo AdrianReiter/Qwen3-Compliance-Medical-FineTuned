@@ -1,7 +1,7 @@
 # Compliance Agent
 
 ## Overview
-The **Compliance Agent** is a specialized AI tool designed to assist medical device software engineers and quality assurance professionals in navigating complex regulatory frameworks. Built upon a fine-tuned Qwen architecture, this agent provides instant, context-aware guidance on standards such as **ISO 13485**, **IEC 62304**, **ISO 14971**, and **FDA 21 CFR**.
+The **Compliance Agent** is a specialized AI tool designed to assist medical device software engineers and quality assurance professionals in navigating complex regulatory frameworks. Built upon a fine-tuned Qwen architecture, this agent provides instant, context-aware guidance on standards such as **ISO 13485**, **IEC 62304**, **ISO 14971**.
 
 By leveraging domain-specific training data, the Compliance Agent helps bridge the gap between technical engineering tasks and regulatory requirements, ensuring that compliance is integrated into the development lifecycle rather than treated as an afterthought.
 
